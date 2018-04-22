@@ -1,11 +1,11 @@
-Vary documentation: http://tatyperson.github.io/Vary/
+Vary documentation: http://spi-fm.github.io/Vary/
 
 Vary presentation: http://prezi.com/adudi5ase2qr/?utm_campaign=share&utm_medium=copy&rc=ex0share
 
 Vary testing plan: https://drive.google.com/file/d/0B-aW6P4G9rDxRnNDY2dLVGZCT1U/view?usp=sharing
 
-Vary plug-in for Sonar JavaDoc: http://tatyperson.github.io/Vary/doc-sonar/
+Vary plug-in for Sonar JavaDoc: http://spi-fm.github.io/Vary/doc-sonar/
 
-Vary plug-in for Eclipse JavaDoc: http://tatyperson.github.io/Vary/doc-eclipse/
+Vary plug-in for Eclipse JavaDoc: http://spi-fm.github.io/Vary/doc-eclipse/
 
-Vary update site for Eclipse: http://tatyperson.github.io/Vary/update-site/site.xml
+Vary update site for Eclipse: http://spi-fm.github.io/Vary/update-site/site.xml
